@@ -17,29 +17,29 @@ The objective is to show that the following activities have been accomplished:
 ### First Step
 
 First, we launch the registration server.
-![1.PNG](1.PNG)
+![1.png](1.png)
 
 The application is running correctly
-![2.PNG](2.PNG)
+![2.png](2.png)
 
 Now, we launch the Account Service, after launching this service we can see in the dashboard of Eureka the ACCOUNTS-SERVICE.
-![3.PNG](3.PNG)
+![3.png](3.png)
 
 The application is running correctly
-![5.PNG](5.PNG)
+![5.png](5.png)
 
 We can see the dashboard of Eureka.
-![4.PNG](4.PNG)
+![4.png](4.png)
 
 Last, we launch Web Service to provide an MVC front-end to the application of accounts
-![6.PNG](6.PNG)
+![6.png](6.png)
 
 At port 3333 we can see the web application
-![7.PNG](7.PNG)
+![7.png](7.png)
 
 ### Second Step
 After launching the three application we can see on the registration server that the other two services we launched are registered in Eureka
-![8.PNG](8.PNG)
+![8.png](8.png)
 
 ### Third Step 
 For this step we change the port for the account application to the 4444
